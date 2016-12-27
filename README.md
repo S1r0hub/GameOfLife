@@ -1,4 +1,4 @@
-# GameOfLife
+# Game Of Life
 ## (CURRENT STABLE VERSION: 3.0)
 
 This is my "Game Of Life Simulator" - based on conway's game of life
