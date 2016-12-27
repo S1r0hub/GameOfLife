@@ -15,9 +15,11 @@ Some fonts may be not correctly shown.
 I'm aware of that "system-based bug" and will fix it soon.
 <br><br>
 Visit my ["Game Of Life wiki"](https://github.com/S1r0hub/GameOfLife/wiki) for more information.
+
 <br><br>
-***
+<hr>
 <br><br>
+
 ### "What do I need to run it?"
 - You need "Java" installed on your computer.
 
@@ -27,9 +29,11 @@ Visit my ["Game Of Life wiki"](https://github.com/S1r0hub/GameOfLife/wiki) for m
 
 ### LINUX: "How can I start it?"
 - Open the terminal inside the folder you stored the program and type "java -jar filename.jar".
+
 <br><br>
-***
+<hr>
 <br><br>
+
 ## Features:
 
 INFO: Use "R" to return to main screen.
@@ -44,9 +48,9 @@ INFO: Use "R" to return to main screen.
  - use "right mousebutton" to remove living cells
  - use "C" to clear the current world
 
-
----------
-
+<br><br>
+<hr>
+<br><br>
 
 ## Version Infos:
 
