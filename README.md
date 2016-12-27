@@ -6,8 +6,8 @@ implemented using Java, the graphical framework "Processing 3" and the library "
 
 Hope you have fun creating some nice worlds!
 
-[Main Screen](https://camo.githubusercontent.com/6472520d567879d5483a879c85d526b105979863/687474703a2f2f7369726f2e62706c616365642e6e65742f496d616765732f474f4c2f76332f76335f6d61696e2e6a7067)
-[World Builder](https://camo.githubusercontent.com/ba41e4c19aceaadfb4ac2a3b850eac68f7412abd/687474703a2f2f7369726f2e62706c616365642e6e65742f496d616765732f474f4c2f76332f76335f776f726c642d6275696c6465722e6a7067)
+![Main Screen](https://camo.githubusercontent.com/6472520d567879d5483a879c85d526b105979863/687474703a2f2f7369726f2e62706c616365642e6e65742f496d616765732f474f4c2f76332f76335f6d61696e2e6a7067 "Main Screen")
+![World Builder](https://camo.githubusercontent.com/ba41e4c19aceaadfb4ac2a3b850eac68f7412abd/687474703a2f2f7369726f2e62706c616365642e6e65742f496d616765732f474f4c2f76332f76335f776f726c642d6275696c6465722e6a7067 "World Builder")
 [All Screenshots](https://github.com/S1r0hub/GameOfLife/wiki/Screenshots)
 
 Some fonts may be not correctly shown.
