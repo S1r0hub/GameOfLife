@@ -20,10 +20,10 @@ I'm aware of that "system-based bug" and will fix it soon.
 
 ### WINDOWS: "How can I start it, its no ".exe"-file?"
 - If you have "Java" installed, simply double click the ".jar"-file.
-- You can also open the console inside the folder of the program (SHIFT + RIGHTMB) and type "java -jar filename.jar" to get debug information.
+- You can also open the console inside the folder you stored the program (SHIFT + RIGHTMB) and type "java -jar filename.jar" to get debug information.
 
 ### LINUX: "How can I start it?"
-- Open the terminal inside the filder of the program and type "java -jar filename.jar".
+- Open the terminal inside the folder you stored the program and type "java -jar filename.jar".
 
 
 ---------
