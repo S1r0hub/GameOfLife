@@ -58,7 +58,7 @@ INFO: Use "R" to return to main screen.
 - added: hold and drag mouse to draw or remove cells using the world builder
 - added: possibility to stop simulation (using "P")
 - added: showing simulation steps and population in window title
-- added: showing if a simulation finished (no more population changes) and stop calculating
+- added: showing if a simulation finished and stop calculating (less cpu usage for same simulation)
 
 
 ---------
