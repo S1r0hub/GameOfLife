@@ -41,6 +41,7 @@ INFO: Use "R" to return to main screen.
 ### - Simulator
  - simulate a random or user generated world
  - press "P" to pause and continue a simulation
+   + press [RIGHT ARROW] while paused for next step of simulation
 
 ### - World Builder
  - build a own world to run a simulation on
