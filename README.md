@@ -21,7 +21,7 @@ Visit my ["Game Of Life wiki"](https://github.com/S1r0hub/GameOfLife/wiki) for m
 <br><br>
 
 ### "What do I need to run it?"
-- You need "Java" installed on your computer.
+- You need ["Java"](https://www.java.com/en/download/) to be installed on your computer.
 
 ### WINDOWS: "How can I start it, its no ".exe"-file?"
 - If you have "Java" installed, simply double click the ".jar"-file.
