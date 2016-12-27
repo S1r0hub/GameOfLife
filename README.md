@@ -64,13 +64,14 @@ INFO: Use "R" to return to main screen.
 - fixed: drawing bug (simulation is faster now)
 - fixed: drawing bug for world builder (fast drawing)
 - added: hold and drag mouse to draw or remove cells using the world builder
-- added: possibility to stop simulation (using "P")
+- added: possibility to pause the simulation (using "P")
+- added: possibility to only go one step further using \[RIGHT ARROW\] **while paused**
 - added: showing simulation steps and population in window title
 - added: showing if a simulation finished and stop calculating (less cpu usage for same simulation)
 
-
----------
-
+<br><br>
+<hr>
+<br><br>
 
 ## Planned:
 - saving and loading worlds
