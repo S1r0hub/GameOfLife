@@ -1,5 +1,5 @@
 # Game Of Life
-## (CURRENT STABLE VERSION: 3.0)
+## (CURRENT STABLE VERSION: 4.1)
 
 This is my "Game Of Life Simulator" - based on conway's game of life
 implemented using Java, the graphical framework "Processing 3" and the library "ControlP5"!
