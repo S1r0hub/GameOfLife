@@ -84,5 +84,5 @@ INFO: Use "R" to return to main screen.
 <br><br>
 
 ## Planned:
-[x] saving and loading worlds
-[ ] extended user tools for world editor
+- [X] saving and loading worlds
+- [ ] extended user tools for world editor
