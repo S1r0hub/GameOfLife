@@ -11,9 +11,8 @@ Hope you have fun creating some nice worlds!
 <br>
 [>> All Screenshots <<](https://github.com/S1r0hub/GameOfLife/wiki/Screenshots)
 
-Some fonts may be not correctly shown.
-I'm aware of that "system-based bug" and will fix it soon.
 <br><br>
+
 Visit my ["Game Of Life wiki"](https://github.com/S1r0hub/GameOfLife/wiki) for more information.
 
 <br><br>
@@ -47,7 +46,7 @@ INFO: Use "R" to return to main screen.
  - build a own world to run a simulation on
  - use "left mousebutton" to draw living cells
  - use "right mousebutton" to remove living cells
- - use "C" to clear the current world
+ - use "S" to show toolbar with more options
 
 <br><br>
 <hr>
@@ -69,6 +68,16 @@ INFO: Use "R" to return to main screen.
 - added: possibility to only go one step further using \[RIGHT ARROW\] **while paused**
 - added: showing simulation steps and population in window title
 - added: showing if a simulation finished and stop calculating (less cpu usage for same simulation)
+
+### Version 4:
+- added: resource loader to load fonts and images
+- added: application icon
+- changed: application fonts
+- changed: application window size increased to 1200x600
+- fixed: system-based fonts
+- world builder: added: gui
+- world builder: added: export and import maps as ".golw"-files
+- world builder: added: changeable pen size
 
 <br><br>
 <hr>
