@@ -1,5 +1,5 @@
 # Game Of Life
-## (CURRENT STABLE VERSION: 4.1)
+## (CURRENT STABLE VERSION: 4.0)
 
 This is my "Game Of Life Simulator" - based on conway's game of life
 implemented using Java, the graphical framework "Processing 3" and the library "ControlP5"!
@@ -84,5 +84,5 @@ INFO: Use "R" to return to main screen.
 <br><br>
 
 ## Planned:
-- saving and loading worlds
-- extended user tools for world editor
+[x] saving and loading worlds
+[ ] extended user tools for world editor
