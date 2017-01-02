@@ -1,5 +1,5 @@
 # Game Of Life
-## (CURRENT STABLE VERSION: 4.0)
+## (CURRENT STABLE VERSION: 4)
 
 This is my "Game Of Life Simulator" - based on conway's game of life
 implemented using Java, the graphical framework "Processing 3" and the library "ControlP5"!
@@ -43,7 +43,7 @@ INFO: Use "R" to return to main screen.
    + press [RIGHT ARROW] while paused for next step of simulation
 
 ### - World Builder
- - build a own world to run a simulation on
+ - build an own world to run a simulation on
  - use "left mousebutton" to draw living cells
  - use "right mousebutton" to remove living cells
  - use "S" to show toolbar with more options
@@ -72,6 +72,8 @@ INFO: Use "R" to return to main screen.
 ### Version 4:
 - added: resource loader to load fonts and images
 - added: application icon
+- added: confirm request on exit
+- added: showing middle in world builder (light gray cells)
 - changed: application fonts
 - changed: application window size increased to 1200x600
 - fixed: system-based fonts
